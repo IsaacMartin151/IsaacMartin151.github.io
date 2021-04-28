@@ -1,29 +1,38 @@
-## The Hunter X Hunter page
+## Isaac Martin's Software Development
 
-Welcome to the official page for the HunterXHunter Minecraft mod by ChubbyChump. Any resources related to the mod can be found on this page
+This page provides an overview of software projects I've worked on since starting to learn Computer Science at Oregon State University
 
-### Greed Island
+### School Projects
 
-The mod's setting is "Greed Island". There are 100 items to collect in order to beat the game, and the difficulty of obtaining items increases as the numbers increase. Every player has access to their "Book!", which displays and stores only items which are of the 100. The book keybind can be set via the controls menu. 
+CS161/CS162 - Introductions to programming, Coding basic C++ Ascii games
+CS290 - Web Development, Being introduced to NPM, basic javascript Server/Client setup
+CS344/444 - Operating Systems, Learning about threading, Kernel vs User, Shells, Permissions, etc
+CS331 - Artificial Intelligence, Understanding Game States/Environments, Search types/advantages, Propositional Logic, etc
+CS450/457 - Computer Graphics and Shaders, OpenGL, The graphics pipeline, Types of Shaders, texturing, etc
 
 
-### Nen Crystals
-Upon spawning, players start with 2 hearts. Nen Crystals are found underground and can be used to increase a player's hearts as well as Nen Power. Nen Abilities differ based on what category of Nen User the player chooses. Nen can be used for a wide range of things and provide the player with unique advantages and disadvantages. 
+Other notable classes - Data Structures, Analysis of Algorithms, Databases
+Various other electives/background courses
 
-### Abilities
 
-There are 5 Nen types to choose from which are selected upon consumption of the first crystal
+### Hobby Projects
+I've been using Forge - https://files.minecraftforge.net/net/minecraftforge/forge/ to work on a mod for Minecraft. It's my longest project so far and the one I'm most proud of. For a more general description of the mod, visit https://isaacmartin151.github.io/HunterXHunter/. Estimated launch time for version 1 of the mod will be December 2021
+
+### Languages used
+
+Ranked from most comfortable to least comfortable, the various languages and frameworks I've interacted with 
 
 ```markdown
-1. Enhancer - Additional health, additional damage
-2. Emitter - Fire explosive beams
-3. Manipulator - View player positions, modify damage direction
-4. Conjurer - Create temporary walls/floors and entities
-5. Transmuter - Repairs item durability, increased speed and haste
-
-There are also several abilities common to all Nen Users such as Gyo, En, and basic Nen activation
+1. Java - The language I've been using for all of my Mod, which encompasses the majority of my programming time for the past few years
+2. C/C++ - The language used in most of my classes, have a good knowledge blend of practical and theoretical information in C++
+      - Java and C/C++ are the only languages I would consider myself comfortable with for a technical assessment
+3. Python - Used in my senior project, for some quick and easy scripts, and a simple discord bot
+4. Javascript - Used in my Web development and Web application classes
+      - The Software Tools/Frameworks below I would classify myself as having brief/passing interactions with, but I have used
+Maven, Haskell, PostMan
 ```
 
+<!--
 Find the official mod spotlight [here](youtube link) and ![Image](https://raw.githubusercontent.com/IsaacMartin151/HunterXHunter/master/HunterXHunter/src/main/resources/assets/hunterxhunter/textures/title.png)
 
 ### Issue Tracking
@@ -47,3 +56,4 @@ I drew heavily from [Vazkii Botania](https://github.com/Vazkii/Botania) in my mo
 [Jabelar's Modding Tutorials](http://jabelarminecraft.blogspot.com/p/minecraft-forge-172-quick-tips-gl11-and.html)
 
 And probably a lot more resources. I'll keep adding to this list as I go along
+-->

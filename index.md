@@ -20,7 +20,7 @@ Various other electives/background courses
 
 
 ### Hobby Projects
-I've been using Forge - https://files.minecraftforge.net/net/minecraftforge/forge/ to work on a mod for Minecraft. It's my longest project so far and the one I'm most proud of. For a more general description of the mod, visit https://isaacmartin151.github.io/HunterXHunter/. Estimated launch time for version 1 of the mod will be December 2021
+I've been using [Forge](https://files.minecraftforge.net/net/minecraftforge/forge/) to work on a mod for Minecraft. It's my longest project so far and the one I'm most proud of. For a more general description of the mod, [check here](https://isaacmartin151.github.io/HunterXHunter/). Estimated launch time for version 1 of the mod will be December 2021
 
 ### Languages used
 

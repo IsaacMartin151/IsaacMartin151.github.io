@@ -4,11 +4,15 @@ This page provides an overview of software projects I've worked on since startin
 
 ### School Projects
 
-CS161/CS162 - Introductions to programming, Coding basic C++ Ascii games\n
-CS290 - Web Development, Being introduced to NPM, basic javascript Server/Client setup\n
-CS344/444 - Operating Systems, Learning about threading, Kernel vs User, Shells, Permissions, etc\n
-CS331 - Artificial Intelligence, Understanding Game States/Environments, Search types/advantages, Propositional Logic, etc\n
-CS450/457 - Computer Graphics and Shaders, OpenGL, The graphics pipeline, Types of Shaders, texturing, etc\n
+CS161/CS162 - Introductions to programming, Coding basic C++ Ascii games
+
+CS290 - Web Development, Being introduced to NPM, basic javascript Server/Client setup
+
+CS344/444 - Operating Systems, Learning about threading, Kernel vs User, Shells, Permissions, etc
+
+CS331 - Artificial Intelligence, Understanding Game States/Environments, Search types/advantages, Propositional Logic, etc
+
+CS450/457 - Computer Graphics and Shaders, OpenGL, The graphics pipeline, Types of Shaders, texturing, etc
 
 
 Other notable classes - Data Structures, Analysis of Algorithms, Databases
@@ -34,10 +38,6 @@ Maven, Haskell, PostMan
 
 <!--
 Find the official mod spotlight [here](youtube link) and ![Image](https://raw.githubusercontent.com/IsaacMartin151/HunterXHunter/master/HunterXHunter/src/main/resources/assets/hunterxhunter/textures/title.png)
-
-### Issue Tracking
-
-Please report any issues you find in this mod in [the mod's issue tracker](https://github.com/IsaacMartin151/HunterXHunter/issues), I will try to resolve them as quickly as I can.
 
 ### Mods/Resources used in this Mod:
 
